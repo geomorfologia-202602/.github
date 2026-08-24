@@ -96,8 +96,21 @@ Autónoma de Santo Domingo (UASD)
 
 ## Prácticas de aula
 
-<!-- - [PA01 · Fundamentos, bases geológicas y tiempo en geomorfología](https://classroom.github.com/a/gj0RsERS) -->
-<!-- Plazo de entrega (con presentación + defensa + evaluación en aula): 23 de febrero, 2026, 4:00 pm. -->
+Las prácticas de aula las realizarás en tu propio clon de repositorio,
+el cual crearás al presionar el enlace de GitHub Classroom que verás
+abajo. Este tipo de prácticas conllevan manuscrito, presentación de
+diapositivas y defensa oral. El manuscrito de cada práctica deberás
+realizarlo en RStudio, siguiendo las instrucciones correspondientes (lee
+el README de tu clon del repositorio). Las diapositivas las podrás
+elaborar en RStudio o usando otras herramientas; eso sí, ten presente
+que herramientas externas de IA cometen muchos errores, especialmente al
+momento de realizar gráficos y mapas.
+
+- [PA01 · Fundamentos, bases geológicas y tiempo en
+  geomorfología](https://classroom.github.com/a/T3TOjHP-) Plazo de
+  entrega (con presentación + defensa + evaluación en aula): 7 de
+  septiembre, 2026, 4:00 pm.
+
 <!-- - [PA02 · Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/UdRYi21p) -->
 <!-- Plazo de entrega (con presentación + defensa + evaluación en aula): 30 de marzo, 2026, 4:00 pm. -->
 <!-- - [PA03 · Intemperización, denudación, procesos de laderas, geomorfología climática y geomorfología kársticas](https://classroom.github.com/a/H96-vF9y) -->
@@ -112,6 +125,66 @@ Autónoma de Santo Domingo (UASD)
 <!-- - [PA04. Formas elementales en el mapa topográfico, comparación con el mapa geomorfológico](https://github.com/geomorfologia-master/formas-elementales-mtn-y-mapa-geomorfologico). Plazo de entrega: 10 de septiembre, 2024, 7:59 pm. -->
 <!-- - [PA05. Tiempo en geomorfología](https://github.com/geomorfologia-master/tiempo-en-geomorfologia). Plazo de entrega: 16 de septiembre, 2024, 7:59 pm. -->
 <!-- - [PA06. Procesa datos GNSS y obtén soluciones fijas](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas). Plazo de entrega: 14 de octubre, 2024, 7:59 pm. -->
+<!-- ## Prácticas de desarrollo -->
+<!-- - [PD01. Hola Mundo](https://classroom.github.com/a/qyQYEq2S). Plazo de entrega: 23 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `geomorfologia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje indicándome tu usuario de GitHub (si no lo tienes aún, deberás crearlo) para así poder invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
+<!-- - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/Pdfw7tXx). Plazo de entrega: 9 de marzo, 2025, 11:59 pm. -->
+<!-- - [PD03. Morfometría de Cuencas y Procesos Fluviales, análisis pormenorizados](https://classroom.github.com/a/q5ELAT7n). Plazo de entrega: 18 de noviembre, 2024, 11:59 pm. [Vídeo tutorial]() -->
+
+## Presentaciones de unidad
+
+Las presentaciones de unidad las podrás realizar usando la herramienta
+que te resulte más cómoda. El archivo resultante, deberás alojarlo en el
+repo de GitHub designado para cada unidad. Súbela al repo
+preferiblemente en formato PDF, presionando el botón `Add files` y luego
+presiona `Upload files`. Puedes optar por otras opciones de formato de
+presentación (HTML, en línea, PowerPoint, etc.), sólo indícame si
+necesitas ayuda en este sentido. Recuerda que debes ser colaborador de
+la organización de GitHub <https://github.com/geomorfologia-202602> para
+poder añadir tu presentación. Si aún no lo eres, pídeme que te invite.
+
+- **Unidad 1**. Fundamentos, bases geológicas y tiempo en geomorfología.
+  Plazo de entrega (presentación diapositivas subidas a GitHub y defensa
+  oral en aula): 30 de agosto, 2026, 4:00 pm. Aloja tu presentación
+  diapositivas en [este repo de
+  GitHub](https://github.com/geomorfologia-202602/presentaciones-unidad-01).
+  Elige uno de estos temas para presentar e infórmalo en el foro (presta
+  atención a la presentación del profesor, para que tomes nota sobre qué
+  aspectos debes observar con mayor detenimiento en tu tema elegido):
+
+  - **Definiciones de geomorfología**, disciplinas auxiliares,
+    epistemología y métodos.
+
+  - **Preguntas en geomorfología**, temas comunes e interdisciplinarios.
+
+  - **Con orientación hacia la geomorfología**, repaso de **composición
+    del interior de la Tierra**, **rocas** (incl. rocas comunes en RD),
+    **placas** y **límites de placa** (reflejo de la tectónica de placas
+    en el Caribe, **deformaciones**), **fallas, pliegues, diaclasas**.
+    **Bases de geomorfología estructural**.
+
+  - **Modelos evolutivos del relieve**: ciclo de Davis, peniplanicies,
+    escalera de piedemontes (Piedmontreppen, Walther Penck) modelos
+    dinámicos (e.g. Hack, Chorley y Kennedy, Strahler, etc.), modelos
+    contemporáneos (e.g. Whipple y Tucker, Chen-Darbon-Morel).
+
+  - **Técnicas de datación**: relativas y absolutas.
+
+  - **Revistas científicas** y **manuales** habituales en geomorfología.
+    Dije en la clase que no era elegible, pero veo que sí, es posible,
+    pero no basta con decir cuáles, sino qué orientaciones tiene las
+    revistas y manuales analizados, cuáles son las más activas,
+    características bibliométricas, y otras características de interés
+    de cada una de las fuentes analizadas. No bastan revistas en inglés
+    y español solamente.
+
+  - **Aplicaciones** de la geomorfología.
+
+## Proyecto de investigación
+
+- [Proyecto de investigación/desarrollo. Tu tema, tu investigación.
+  Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD).
+  Semestre 2026-02](https://classroom.github.com/a/ycPLXhMm). Plazo de
+  entrega: 14 de diciembre, 2026, 11:59 pm.
 
 ## Tutoriales interactivos
 
@@ -120,15 +193,3 @@ Autónoma de Santo Domingo (UASD)
   embargo, si logras completarlo, te ayudará mucho a comprender algo de
   código de R, y te servirá para comprender lo básico del código que
   usarás en las prácticas.
-
-<!-- ## Prácticas de desarrollo -->
-<!-- - [PD01. Hola Mundo](https://classroom.github.com/a/qyQYEq2S). Plazo de entrega: 23 de febrero, 2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de GitHub iniciada y perteneces a la organización `geomorfologia-202501` debería aparecerte un mensaje de GitHub Classroom solicitando permisos o preguntando si aceptas la asignación. Si no ves esto, entonces probablemente no perteneces a la organización o no iniciaste en tu cuenta de GitHub. Si no perteneces a la organización, envíame un mensaje indicándome tu usuario de GitHub (si no lo tienes aún, deberás crearlo) para así poder invitarte. Más detalles en el [Vídeo tutorial "PD01. Hola Mundo"](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link). -->
-<!-- - [PD02. Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/Pdfw7tXx). Plazo de entrega: 9 de marzo, 2025, 11:59 pm. -->
-<!-- - [PD03. Morfometría de Cuencas y Procesos Fluviales, análisis pormenorizados](https://classroom.github.com/a/q5ELAT7n). Plazo de entrega: 18 de noviembre, 2024, 11:59 pm. [Vídeo tutorial]() -->
-
-## Proyecto de investigación
-
-- [Proyecto de investigación/desarrollo. Tu tema, tu investigación.
-  Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD).
-  Semestre 2026-02](). Plazo de entrega: 14 de diciembre, 2026, 11:59
-  pm.
