@@ -133,14 +133,19 @@ momento de realizar gráficos y mapas.
 ## Presentaciones de unidad
 
 Las presentaciones de unidad las podrás realizar usando la herramienta
-que te resulte más cómoda. El archivo resultante, deberás alojarlo en el
-repo de GitHub designado para cada unidad. Súbela al repo
-preferiblemente en formato PDF, presionando el botón `Add files` y luego
-presiona `Upload files`. Puedes optar por otras opciones de formato de
-presentación (HTML, en línea, PowerPoint, etc.), sólo indícame si
-necesitas ayuda en este sentido. Recuerda que debes ser colaborador de
-la organización de GitHub <https://github.com/geomorfologia-202602> para
-poder añadir tu presentación. Si aún no lo eres, pídeme que te invite.
+que te resulte más cómoda. El archivo resultante deberás nombrarlo bajo
+la siguiente convención: “`nombre-apellido-estudiante-tema-elegido.pdf`”
+(preferiblemente todo minúsculas, sin caracteres especiales, ni
+espacios, ni símbolos, y no más de 50 caracteres), por ejemplo
+`juan-de-los-palotes-definiciones-geomorfologia.pdf`. Aloja tu
+presentación en el repo de GitHub designado para cada unidad. Sube tu
+presentación preferiblemente en formato PDF, presionando el botón
+`Add files` y luego presiona `Upload files`. Puedes optar por otras
+opciones de formato de presentación (HTML, en línea, PowerPoint, etc.),
+sólo indícame si necesitas ayuda en este sentido. Recuerda que debes ser
+colaborador de la organización de GitHub
+<https://github.com/geomorfologia-202602> para poder añadir tu
+presentación. Si aún no lo eres, pídeme que te invite.
 
 - **Unidad 1**. Fundamentos, bases geológicas y tiempo en geomorfología.
   Plazo de entrega (presentación diapositivas subidas a GitHub y defensa
