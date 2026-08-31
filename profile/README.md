@@ -107,9 +107,12 @@ que herramientas externas de IA cometen muchos errores, especialmente al
 momento de realizar gráficos y mapas.
 
 - [PA01 · Fundamentos, bases geológicas y tiempo en
-  geomorfología](https://classroom.github.com/a/T3TOjHP-) Plazo de
-  entrega (con presentación + defensa + evaluación en aula): 7 de
-  septiembre, 2026, 4:00 pm.
+  geomorfología](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/pa01-fundamentos-bases-geologicas-tiempo-geomo/accept).
+  **IMPORTANTE**: antes de hacer clic, verifica en
+  [Repositories](https://github.com/orgs/geomorfologia-202602/repositories)
+  si ya tienes creado tu clon de repo de esta PA01. Plazo de entrega
+  (con presentación + defensa + evaluación en aula): 7 de septiembre,
+  2026, 4:00 pm.
 
 <!-- - [PA02 · Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/UdRYi21p) -->
 <!-- Plazo de entrega (con presentación + defensa + evaluación en aula): 30 de marzo, 2026, 4:00 pm. -->
@@ -188,7 +191,11 @@ presentación. Si aún no lo eres, pídeme que te invite.
 
 - [Proyecto de investigación/desarrollo. Tu tema, tu investigación.
   Geomorfología (GEO-114). Universidad Autónoma de Santo Domingo (UASD).
-  Semestre 2026-02](https://classroom.github.com/a/ycPLXhMm). Plazo de
+  Semestre
+  2026-02](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/proyecto-de-investigacion/accept).
+  **IMPORTANTE**: antes de hacer clic, verifica en
+  [Repositories](https://github.com/orgs/geomorfologia-202602/repositories)
+  si ya tienes creado tu clon de repo de este Proyecto. Plazo de
   entrega: 14 de diciembre, 2026, 11:59 pm.
 
 ## Tutoriales interactivos
