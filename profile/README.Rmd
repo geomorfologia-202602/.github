@@ -65,10 +65,12 @@ Las prácticas de aula las realizarás en tu propio clon de repositorio, el cual
 
 
 - [PA01 · Fundamentos, bases geológicas y tiempo en geomorfología](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/pa01-fundamentos-bases-geologicas-tiempo-geomo/accept). **IMPORTANTE**: antes de hacer clic, verifica en [Repositories](https://github.com/orgs/geomorfologia-202602/repositories) si ya tienes creado tu clon de repo de esta PA01.
-Plazo de entrega (con presentación + defensa + evaluación en aula): 7 de septiembre, 2026, 4:00 pm. 
+Plazo de entrega (con presentación + defensa + evaluación en aula): 7 de septiembre, 2026, 4:00 pm.
 
-<!-- - [PA02 · Geomorfometría, reproducibilidad, redacción, estilos de formato, figuras, tablas, citas y referencias](https://classroom.github.com/a/UdRYi21p) -->
-<!-- Plazo de entrega (con presentación + defensa + evaluación en aula): 30 de marzo, 2026, 4:00 pm. -->
+- [PA02 · Geomorfometría](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/pa02-geomorfometria/accept). Plazo de entrega (con presentación + defensa + evaluación en aula): 21 de septiembre, 2026, 4:00 pm.
+
+- [PA03. Procesa datos GNSS y obtén soluciones fijas)](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/pa03-datos-gnss-soluciones-fijas/accept). Plazo de entrega: 28 de septiembre, 2026, 4:00 pm.
+
 
 <!-- - [PA03 · Intemperización, denudación, procesos de laderas, geomorfología climática y geomorfología kársticas](https://classroom.github.com/a/H96-vF9y) -->
 <!-- Plazo de entrega (con presentación + defensa + evaluación en aula): 27 de abril, 2026, 4:00 pm. -->
@@ -81,8 +83,6 @@ Plazo de entrega (con presentación + defensa + evaluación en aula): 7 de septi
 <!-- - [PA02. Interpolación lineal ponderada por la distancia inversa](https://github.com/geomorfologia-master/interpolacion-idw). Plazo de entrega: 17 de febrero, 2025, 3:59 pm. -->
 
 <!-- - [PA02. Geomorfometría con SRTM 30 m (R y GRASS GIS)](https://github.com/geomorfologia-master/geomorfometria-con-srtm-30-m-R-grass). Plazo de entrega: 15 de septiembre, 2025, 11:59 pm. -->
-
-<!-- - [PA03. Procesa datos GNSS y obtén soluciones fijas)](https://github.com/geomorfologia-master/datos-gnss-soluciones-fijas). Plazo de entrega: 22 de septiembre, 2025, 11:59 pm. -->
 
 
 <!-- - [PA04. Meteorización/intemperización, formas resultantes, geomorfología climática](https://github.com/geomorfologia-master/meteorizacion-formas-resultantes-geomorfologia-climatica-karst). Plazo de entrega: 12 de octubre, 2025, 11:59 pm. -->
