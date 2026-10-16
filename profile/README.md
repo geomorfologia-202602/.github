@@ -123,6 +123,10 @@ momento de realizar gráficos y mapas.
   fijas)](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/pa03-datos-gnss-soluciones-fijas/accept).
   Plazo de entrega: 28 de septiembre, 2026, 4:00 pm.
 
+- [PA04 Análisis de intemperizacion, laderas,
+  karst](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/pa04-analisis-de-intemperizacion-laderas-karst/accept).
+  Plazo de entrega: 26 de octubre, 2026, 4:00 pm.
+
 <!-- - [PA03 · Intemperización, denudación, procesos de laderas, geomorfología climática y geomorfología kársticas](https://classroom.github.com/a/H96-vF9y) -->
 <!-- Plazo de entrega (con presentación + defensa + evaluación en aula): 27 de abril, 2026, 4:00 pm. -->
 <!-- - [PA00. Nivelación de geología para geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia). Plazo de entrega: 25 de agosto, 2025, 3:59 pm. -->
