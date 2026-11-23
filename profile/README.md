@@ -127,6 +127,11 @@ momento de realizar gráficos y mapas.
   karst](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/pa04-analisis-de-intemperizacion-laderas-karst/accept).
   Plazo de entrega: 26 de octubre, 2026, 4:00 pm.
 
+- [PA05 Modelización hidrológica y simulación hidráulica de un arroyo de
+  la cordillera
+  Septentrional](https://classroom50.org/geomorfologia-202602/geo114-202602/assignments/pa05-hidrologia-e-hidraulica/accept).
+  Plazo de entrega: 30 de noviembre, 2026, 4:00 pm.
+
 <!-- - [PA03 · Intemperización, denudación, procesos de laderas, geomorfología climática y geomorfología kársticas](https://classroom.github.com/a/H96-vF9y) -->
 <!-- Plazo de entrega (con presentación + defensa + evaluación en aula): 27 de abril, 2026, 4:00 pm. -->
 <!-- - [PA00. Nivelación de geología para geomorfología](https://github.com/geomorfologia-master/nivelacion-de-geologia-para-geomorfologia). Plazo de entrega: 25 de agosto, 2025, 3:59 pm. -->
